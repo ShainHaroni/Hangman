@@ -1,7 +1,7 @@
 # Hangman
 
 
-### This is an Python Game.
+### This is a Python Game.
 
 Without UI.
 
